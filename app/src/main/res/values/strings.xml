@@ -1,0 +1,39 @@
+<resources>
+    <string name="err_msg_enter_first_name">Please enter first name.</string>
+    <string name="err_msg_enter_last_name">Please enter last name.</string>
+    <string name="err_msg_enter_email">Please enter email.</string>
+    <string name="err_msg_enter_password">Please enter password.</string>
+    <string name="err_msg_enter_confirm_password">Please enter confirm password.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Password and confirm password does not match.</string>
+    <string name="err_msg_agree_terms_and_condition">Please agree terms and condition.</string>
+
+    <string name="app_name">NewsApp</string>
+
+
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <string name="title_forgot_password">FORGOT PASSWORD?</string>
+    <string name="forgot_password_title_description">Enter your username and e-mail address we\'ll send you a email to reset your password</string>
+    <string name="btn_lbl_submit">Submit</string>
+
+    <string name="email_sent_success">Email sent successfully to reset your password!</string>
+
+    <string name="register_success">You are registered successfully.</string>
+
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="et_hint_email_id">Email Id</string>
+    <string name="dont_t_have_an_account_register_now">Dont\'t have an Account ?<font color='#F82020'> Register Now</font></string>
+    <string name="signin_into_your_n_acoount">SignIn into your\n Acoount</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="create_an_n_acoount">Create an\n Account</string>
+    <string name="name">Name</string>
+    <string name="contact_no">Contact no</string>
+    <string name="i_agree_with_terms_amp_condition"><font color='#00000'>I agree with </font><u><font color='#F82020'>terms &amp; condition</font></u></string>
+    <string name="already_have_an_account_sign_in">Already have an Account ?<font color='#F82020'> Sign In!</font></string>
+    <string name="register">REGISTER</string>
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074484956020",
+    "project_id": "mvvmnewsapp-70ae2",
+    "storage_bucket": "mvvmnewsapp-70ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074484956020:android:b79d19f4e43539467cfa21",
+        "android_client_info": {
+          "package_name": "com.androiddevs.mvvmnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074484956020-ushk3kg6g6dimv2rbaddejs7ug53hdo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddevs.mvvmnewsapp",
+            "certificate_hash": "05dac6d241a299ec41e10e3b906b869324b1919e"
+          }
+        },
+        {
+          "client_id": "1074484956020-at8tas6su783j43ecc086bfguaqekntr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyweS0nSiNAcNoV7nAd_CUJ-4DLgA7RBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074484956020-at8tas6su783j43ecc086bfguaqekntr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
